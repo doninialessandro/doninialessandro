@@ -3,7 +3,6 @@
 <img align="right" alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="350px"/>
 
 <br />
-
 #### I'm a software engineer, photographer and climber!
 
 - 🔭 I’m currently working on data-driven applications based on ML
