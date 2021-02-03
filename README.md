@@ -2,7 +2,7 @@
 
 <img align="right" alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340px" />
 
-#### I'm a software engineer!
+#### I'm a Software Engineer!
 
 - 🔭 I’m currently working on data-driven applications based on ML algorithms
 - 🌱 I’m currently learning **[🦕 Deno](https://deno.land)**
