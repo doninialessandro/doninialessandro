@@ -37,7 +37,7 @@
 <br />
 <br />
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+and here are some **[🦜 parrots](https://cultofthepartyparrot.com)** if you want:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
