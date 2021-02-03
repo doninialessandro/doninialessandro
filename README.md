@@ -11,7 +11,6 @@
 - 📫 How to reach me: **alessandro.donini.tech@gmail.com**
 
 <br />
-<br />
 
 ### Languages and Tools:
 
