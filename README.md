@@ -1,6 +1,6 @@
 ### Hi, I'm Ale <img alt="Hi" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">
 
-<img align="right" alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340px" />
+<img align="right" alt="Developer" src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" width="340px" />
 
 #### I'm a software engineer, photographer and climber!
 
