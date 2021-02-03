@@ -1,6 +1,6 @@
 ### Hi there, I'm Ale <img alt="Hi" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">
 
-<img align="right" alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="450px"/>
+<img align="right" alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  width="400px"/>
 
 #### I'm a software engineer, photographer and climber!
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [Deno](https://deno.land)
 - 💬 Ask me about ... anything, I'm happy to help and compare my experience with your!
 - ⚡ Fun fact: I'm a Seagul Merlin player 🎸
-- 👋 Contact:  [<img alt="linkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alessandrodonini/)
+- 📫 How to reach me: [<img alt="linkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alessandrodonini/) or **alessandro.donini.tech@gmail.com**
 
 <br />
 <br />
@@ -38,7 +38,7 @@
 <br />
 <br />
 
-### Some parrots:
+Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
