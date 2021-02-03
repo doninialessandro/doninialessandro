@@ -5,7 +5,7 @@
 #### I'm a software engineer, photographer and climber!
 
 - 🔭 I’m currently working as a Software Engineer on data-driven web applications based on ML algorithms
-- 🌱 I’m currently learning [Deno](https://deno.land)
+- 🌱 I’m currently learning **[Deno](https://deno.land)**
 - 💬 Ask me about ... anything, I'm happy to help and compare my experience with your!
 - ⚡ Fun fact: I'm a Seagul Merlin player 🎸
 - 📫 How to reach me: **alessandro.donini.tech@gmail.com**
