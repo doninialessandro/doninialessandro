@@ -38,10 +38,9 @@
 </details>
 
 <br />
-<br />
 
 <!--
-
+<br />
 and here are some **[🦜 parrots](https://cultofthepartyparrot.com)** if you want:
 
 <div>
