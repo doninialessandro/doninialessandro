@@ -1,6 +1,6 @@
 ### Hi, I'm Ale <img alt="Hi" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">
 
-<img alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340px" />
+<img alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
 
 #### I'm a Software Engineer!
 
@@ -29,6 +29,7 @@
     <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 
+<br />
 <br />
 <br />
 
