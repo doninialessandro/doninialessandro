@@ -1,6 +1,6 @@
 ### Hi, I'm Ale <img alt="Hi" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">
 
-<img align="right" alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340px"/>
+<img align="right" alt="Developer" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340px" />
 
 #### I'm a software engineer, photographer and climber!
 
@@ -31,6 +31,7 @@
 <br />
 
 <details>
+  <br/>
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="Ale's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doninialessandro" />
 </details>
