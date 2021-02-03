@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [Deno](https://deno.land)
 - 💬 Ask me about ... anything, I'm happy to help and compare my experience with your!
 - ⚡ Fun fact: I'm a Seagul Merlin player 🎸
-- 👋 Contact: [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alessandrodonini/)
+- 👋 Contact:  [<img alt="linkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alessandrodonini/)
 
 <br />
 <br />
