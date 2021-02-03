@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning [Deno](https://deno.land)
 - 💬 Ask me about ... anything, I'm happy to help and compare my experience with your!
 - ⚡ Fun fact: I'm a Seagul Merlin player 🎸
-
-### Contact
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alessandrodonini/)
+- 👋 Contact: [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alessandrodonini/)
 
 <br />
 <br />
@@ -29,14 +27,16 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doninialessandro" />
-
+  <img align="left" alt="Ale's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doninialessandro" />
 </details>
 
+<br />
+<br />
 <br />
 <br />
 
