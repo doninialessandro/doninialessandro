@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I'm a Seagul Merlin player 🎸
 - 📫 How to reach me: **alessandro.donini.tech@gmail.com**
 
+<br />
+
 ### Languages and Tools:
 
 <div>
