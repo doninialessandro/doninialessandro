@@ -1,6 +1,6 @@
 ### Hi, I'm Ale <img alt="Hi" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">
 
-<img alt="Developer" align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
+<img alt="Developer" align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380px" />
 
 #### Software Engineer | Data Visualization Engineer
 
@@ -13,6 +13,7 @@
 <br />
 
 ### Languages and Tools:
+
 <div>
     <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -39,10 +40,10 @@
   <img align="left" alt="Ale's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doninialessandro" />
 </details>
 
-
 <!--
 <br />
 <br />
+
 and here are some **[🦜 parrots](https://cultofthepartyparrot.com)** if you want:
 
 <div>
