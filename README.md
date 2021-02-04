@@ -2,11 +2,10 @@
 
 <img alt="Developer" align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
 
-#### I'm a Software Engineer!
+#### Software Engineer | Data VIsualization Engineer
 
 - 🔭 I’m currently working on data-driven applications based on ML algorithms
 - 🌱 I’m currently learning **[🦕 Deno](https://deno.land)**
-- 💬 Ask me anything, I'm happy to help and compare experiences!
 - ⚡ Fun fact: I'm a Seagul Merlin player 🎸
 - 📫 How to reach me: **alessandro.donini.tech@gmail.com**
 
