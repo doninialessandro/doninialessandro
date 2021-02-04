@@ -32,7 +32,6 @@
 
 <br />
 <br />
-<br />
 
 <details>
   <br/>
