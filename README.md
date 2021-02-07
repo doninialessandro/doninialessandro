@@ -5,7 +5,7 @@
 #### Software Engineer | Data Visualization Engineer
 
 - 🔭 I’m currently working on data-driven applications based on ML algorithms
-- 🌱 I’m currently learning **[🦕 Deno](https://deno.land)**
+- 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)**
 - 💬 Feel free to ask me anything, I am happy to help if possible
 - ⚡ Fun fact: I'm a Seagul Merlin player 🎸
 - 📫 How to reach me: **alessandro.donini.tech@gmail.com**
