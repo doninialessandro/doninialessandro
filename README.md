@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on data-driven applications based on ML algorithms
 - 🌱 I’m currently looking for new things to learn
 - 💬 Feel free to ask me anything, I am happy to help if possible
-- ⚡ Fun fact: I'm a Seagul Merlin player 🎸
+- ⚡ Fun fact: I'm a rock climber 🧗‍♂️
 - 📫 How to reach me: **alessandro.donini.tech@gmail.com**
 
 <br />
