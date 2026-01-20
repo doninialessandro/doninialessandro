@@ -1,6 +1,6 @@
 ### Hi, I'm Ale <img alt="Hi" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">
 
-<img alt="Developer" align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380px" />
+<!-- <img alt="Developer" align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380px" /> -->
 
 #### Software Engineer | Data Visualization Engineer
 
@@ -30,17 +30,14 @@
    <!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 </div>
 
-<br />
-<br />
-<br />
-
+<!--
 <details>
   <br/>
   <summary>🖥️ Most Used Languages</summary>
   <img align="left" alt="Ale's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doninialessandro" />
 </details>
 
-<!--
+
 <br />
 <br />
 
