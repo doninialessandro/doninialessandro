@@ -2,7 +2,7 @@
 
 <!-- <img alt="Developer" align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380px" /> -->
 
-#### Software Engineer
+#### Software Engineer | Engineering Manager
 
 - 🔭 I currently work as a software engineer and engineering manager
 - 🌱 I’m currently looking for new things to learn
