@@ -10,8 +10,6 @@
 - ⚡ Fun fact: I'm a rock climber 🧗‍♂️
 - 📫 How to reach me: **alessandro.donini.tech@gmail.com**
 
-<br />
-
 ### Languages and Tools:
 
 <div>
